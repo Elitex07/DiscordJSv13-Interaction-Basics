@@ -1,0 +1,28 @@
+{
+  "name": "discordjsv13",
+  "version": "1.0.0",
+  "description": "A test Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElitexRaiden07/DiscordJSv13.git"
+  },
+  "author": "Elitex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElitexRaiden07/DiscordJSv13/issues"
+  },
+  "homepage": "https://github.com/ElitexRaiden07/DiscordJSv13#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "discord-api-types": "^0.26.0",
+    "discord.js": "^13.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0"
+  }
+}
