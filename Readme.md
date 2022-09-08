@@ -1,3 +1,9 @@
+# Start-up
+- Open `./config.json`
+- Enter all the required details.
+- Run `npm i` in terminal
+- To Start the bot, Run `node index.js` in terminal
+
 # Introduction
 
 If you're reading this, it probably means you want to learn how to make a bot with discord.js. Awesome! You've come to the right place. This guide will teach you things such as:
